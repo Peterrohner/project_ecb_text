@@ -56,5 +56,6 @@ Interessant könnten zum Beispiel Sentiment- und Ähnlichkeitsanalysen sein. Nat
 4. Code und Doku für Beschaffung und Auswertung der Introductionary Statements (ipynb)
 5. Publizierter Artikel (PDF)
 
+** Fragen und Kontakt **: peter.rohner@fuw.ch
 
 
