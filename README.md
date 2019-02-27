@@ -50,10 +50,10 @@ Interessant könnten zum Beispiel Sentiment- und Ähnlichkeitsanalysen sein. Nat
 
 ### Die Repo enthält folgende Elemente:
 1. Arbeitsprotokoll (PDF)
-2. Code und Doku für Beschaffung der Monetary Accounts (ipynb)
+2. Code und Doku für Beschaffung der Monetary Accounts (ezbprotokolle_datenbeschaffung.ipynb)
 3. Beispiel eines Sitzungsprotokolls (PDF)
-3. Code und Doku für Auswertung der Monetary Accounts (ipynb)
-4. Code und Doku für Beschaffung und Auswertung der Introductionary Statements (ipynb)
+3. Code und Doku für Auswertung der Monetary Accounts (ezbprotokolle_textanalyse.ipynb)
+4. Code und Doku für Beschaffung und Auswertung der Introductionary Statements (ecb_is.ipynb)
 5. Publizierter Artikel (PDF)
 
 **Fragen und Kontakt**: peter.rohner@fuw.ch
