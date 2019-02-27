@@ -39,6 +39,11 @@ Die Geldpolitik der EZB hat eine enorme Wirkung auf die Konjunktur und die Finan
 * Aufwand/Ertrag: Die Statements und Protokolle sind öffentlich zugänglich, als PDF oder aus der Webseite als Text. Der Aufwand für die Beschaffung der Dokumente scheint überschaubar. Der Aufwand der einfache Textanalysen, wie das Zählen von gewissen Wörtern, hängt davon ab, wieviele Begriffe von Interesse sind. Mit der Einschränkung auf die Wesentlichen lässt sich der Aufwand beschränken. 
 Die Anwendung von NL-Toolkits könnte etwas mehr Zeit in Anspruch nehmen, auch wenn im Unterricht Beispiele behandelt wurden und Unterlagen vorhanden sind. Auch hier empfiehlt es sich, nur die Instrumente auszuwählen, die zur Beantwortung  der Fragestellung sinnvoll sind. 
 Interessant könnten zum Beispiel Sentiment- und Ähnlichkeitsanalysen sein. Natürlich hängt der zeitliche Aufwand zu einem grossen Teil vom Vorankommen beim Programmieren ab, was sich nur schwer abschätzen lässt.
+* Knackpunkte:
+Welches sind die relevanten Dokumente: Die einführenden Worte zum Zinsentscheid (Introductory Statements) oder die umfangreicheren Sitzungsprotokolle (Monetary Accounts)? 
+Beschaffung der Textdokumente, PDF oder Website-Scrapen
+Auswahl der für die Fragestellung relevanten Suchbegriffe und Natural-Language-Processing-Tools
+
 * Briefing Personen: Andreas Neinhaus, Zinsexperte bei Finanz und Wirtschaft und Kevin Flanagan, Anleihenstratege WisdomTree
 * Code und Dokumentation
 * Publikation (Mit einem Teil der Ergebnisse)
